@@ -1,8 +1,24 @@
 ﻿{
   "app_name": "골드로또",
-  "current_version": "1.7.1",
-  "last_updated": "2025-06-30",
+  "current_version": "1.7.3",
+  "last_updated": "2025-07-2",
   "versions": [
+   {
+      "version": "1.7.3",
+      "date": "2025년 7월 2일",
+      "is_latest": true,
+      "updates": [
+        "앱 안정성을 개선하였습니다.",
+      ]
+    }, 
+    {
+      "version": "1.7.2",
+      "date": "2025년 6월 30일",
+      "is_latest": true,
+      "updates": [
+        "앱 안정성을 개선하였습니다.",
+      ]
+    },
     {
       "version": "1.7.1",
       "date": "2025년 6월 30일",
