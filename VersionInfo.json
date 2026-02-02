@@ -1,12 +1,21 @@
 ﻿{
   "app_name": "골드로또",
-  "current_version": "1.8.2",
-  "last_updated": "2026-1-19",
+  "current_version": "1.8.3",
+  "last_updated": "2026-2-2",
   "versions": [
+  {
+   "version": "1.8.3",
+   "date": "2026년 2월 2일",
+   "is_latest": true,
+   "updates": [
+    "당첨번호 발표 알림에서 회차가 잘 못 안내되던 문제 수정.",
+    "예측 대회 랭킹 페이지에서 점수와 상관 없이 내가 참여한 번호 확인 가능하도록 변경."
+   ]
+  },
   {
     "version": "1.8.2",
     "date": "2026년 1월 19일",
-    "is_latest": true,
+    "is_latest": false,
     "updates": [
       "예측대회 기능 추가",
       "채팅방 로또번호 공유 시스템 추가",
@@ -656,6 +665,7 @@
     }
   ]
 }
+
 
 
 
